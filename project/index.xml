@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Deming Chu&#39;s Homepage</title>
+    <link>https://nedchu.github.io/project/</link>
+      <atom:link href="https://nedchu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 21:18:36 +0800</lastBuildDate>
+    <image>
+      <url>https://nedchu.github.io/images/icon_hu00bad37b8085809a0b6f8d0916d4d0cc_125981_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://nedchu.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Cohesive Subgraph Mining for Anomaly Analysis</title>
+      <link>https://nedchu.github.io/project/hw/</link>
+      <pubDate>Sun, 19 Apr 2020 21:18:36 +0800</pubDate>
+      <guid>https://nedchu.github.io/project/hw/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Survey and implement existing &lt;em&gt;Cohesive Subgraph Mining&lt;/em&gt; algorithms&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
