@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deming Chu | Deming CHU&#39;s Homepage</title>
+    <title>Deming CHU | Deming CHU&#39;s Homepage</title>
     <link>https://nedchu.github.io/author/deming-chu/</link>
       <atom:link href="https://nedchu.github.io/author/deming-chu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Deming Chu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <description>Deming CHU</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://nedchu.github.io/images/icon_hu8df7e9b7c9434ec8dd66752250a81843_81466_512x512_fill_lanczos_center_2.png</url>
-      <title>Deming Chu</title>
+      <url>https://nedchu.github.io/author/deming-chu/avatar_huec8d3c73464a87c714dee1f5c14256f2_37266_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Deming CHU</title>
       <link>https://nedchu.github.io/author/deming-chu/</link>
     </image>
-    
-    <item>
-      <title>Finding the Best k in Core Decomposition: A Time and Space Optimal Solution</title>
-      <link>https://nedchu.github.io/publication/chu-2020/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://nedchu.github.io/publication/chu-2020/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
