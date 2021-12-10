@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu Zhang | Deming CHU&#39;s Homepage</title>
+    <link>https://nedchu.github.io/author/yu-zhang/</link>
+      <atom:link href="https://nedchu.github.io/author/yu-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Sep 2017 12:50:53 +1100</lastBuildDate>
+    <image>
+      <url>https://nedchu.github.io/images/icon_hu8df7e9b7c9434ec8dd66752250a81843_81466_512x512_fill_lanczos_center_2.png</url>
+      <title>Yu Zhang</title>
+      <link>https://nedchu.github.io/author/yu-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Real-Time Popularity Prediction on Instagram</title>
+      <link>https://nedchu.github.io/publication/adc2017/</link>
+      <pubDate>Mon, 25 Sep 2017 12:50:53 +1100</pubDate>
+      <guid>https://nedchu.github.io/publication/adc2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

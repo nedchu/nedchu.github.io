@@ -36,5 +36,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Similarity Evaluation on Labeled Graphs via Hierarchical Core Decomposition</title>
+      <link>https://nedchu.github.io/publication/ccfbigdata2019/</link>
+      <pubDate>Thu, 26 Sep 2019 12:54:25 +1100</pubDate>
+      <guid>https://nedchu.github.io/publication/ccfbigdata2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Popularity Prediction on Instagram</title>
+      <link>https://nedchu.github.io/publication/adc2017/</link>
+      <pubDate>Mon, 25 Sep 2017 12:50:53 +1100</pubDate>
+      <guid>https://nedchu.github.io/publication/adc2017/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
