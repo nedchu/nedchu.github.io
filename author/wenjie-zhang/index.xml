@@ -5,12 +5,20 @@
     <link>https://nedchu.github.io/author/wenjie-zhang/</link>
       <atom:link href="https://nedchu.github.io/author/wenjie-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenjie Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Mar 2024 12:36:01 +1100</lastBuildDate>
     <image>
       <url>https://nedchu.github.io/images/icon_hu8df7e9b7c9434ec8dd66752250a81843_81466_512x512_fill_lanczos_center_2.png</url>
       <title>Wenjie Zhang</title>
       <link>https://nedchu.github.io/author/wenjie-zhang/</link>
     </image>
+    
+    <item>
+      <title>Graph Summarization: Compactness Meets Efficiency</title>
+      <link>https://nedchu.github.io/publication/sigmod-2024/</link>
+      <pubDate>Mon, 18 Mar 2024 12:36:01 +1100</pubDate>
+      <guid>https://nedchu.github.io/publication/sigmod-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hierarchical Core Decomposition in Parallel: From Construction to Subgraph Search</title>

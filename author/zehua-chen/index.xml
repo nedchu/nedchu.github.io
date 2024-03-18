@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zehua Chen | Deming CHU&#39;s Homepage</title>
+    <link>https://nedchu.github.io/author/zehua-chen/</link>
+      <atom:link href="https://nedchu.github.io/author/zehua-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zehua Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Mar 2024 12:41:10 +1100</lastBuildDate>
+    <image>
+      <url>https://nedchu.github.io/images/icon_hu8df7e9b7c9434ec8dd66752250a81843_81466_512x512_fill_lanczos_center_2.png</url>
+      <title>Zehua Chen</title>
+      <link>https://nedchu.github.io/author/zehua-chen/</link>
+    </image>
+    
+    <item>
+      <title>Influence Maximization via Vertex Countering</title>
+      <link>https://nedchu.github.io/publication/vldb-2024/</link>
+      <pubDate>Mon, 18 Mar 2024 12:41:10 +1100</pubDate>
+      <guid>https://nedchu.github.io/publication/vldb-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
