@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Deming CHU&#39;s Homepage</title>
-    <link>https://nedchu.github.io/publication-type/2/</link>
-      <atom:link href="https://nedchu.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
-    <description>2</description>
+    <title>Yinglong Xia | Deming CHU&#39;s Homepage</title>
+    <link>https://nedchu.github.io/author/yinglong-xia/</link>
+      <atom:link href="https://nedchu.github.io/author/yinglong-xia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yinglong Xia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2024 06:20:22 -0400</lastBuildDate>
     <image>
       <url>https://nedchu.github.io/images/icon_hu8df7e9b7c9434ec8dd66752250a81843_81466_512x512_fill_lanczos_center_2.png</url>
-      <title>2</title>
-      <link>https://nedchu.github.io/publication-type/2/</link>
+      <title>Yinglong Xia</title>
+      <link>https://nedchu.github.io/author/yinglong-xia/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://nedchu.github.io/publication/tkde2024/</link>
       <pubDate>Wed, 12 Jun 2024 06:20:22 -0400</pubDate>
       <guid>https://nedchu.github.io/publication/tkde2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VEK: a vertex-oriented approach for edge k-core problem</title>
-      <link>https://nedchu.github.io/publication/wwwj2021/</link>
-      <pubDate>Thu, 02 Dec 2021 15:12:22 +1100</pubDate>
-      <guid>https://nedchu.github.io/publication/wwwj2021/</guid>
       <description></description>
     </item>
     
